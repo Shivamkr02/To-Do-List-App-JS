@@ -29,3 +29,18 @@ The project's codebase is organized into different files and folders to maintain
     storage operations.
     
 The code follows best practices in terms of readability, modularity, and separation of concerns. It utilizes modern JavaScript features, such as ES6 syntax, and leverages the power of DOM manipulation to dynamically update the user interface based on user actions.
+
+
+Conclusion
+-----------
+
+In conclusion, this Todo app project demonstrates my proficiency in HTML, and CSS, Javascript as well as my ability to develop a functional and user-friendly web application. The app provides an intuitive and efficient way for users to manage their tasks, and the code is structured and organized for easy maintenance and scalability.
+
+I hope you find this project valuable and appreciate your time in reviewing it. Please feel free to provide any feedback or suggestions for improvement. 
+
+----------------------------
+
+Netlify Link :  https://to-do-list-app-js-1.netlify.app/
+-------------
+                                                                           
+                                                                              Thank you!
