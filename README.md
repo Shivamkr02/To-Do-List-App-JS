@@ -43,4 +43,5 @@ I hope you find this project valuable and appreciate your time in reviewing it. 
 Netlify Link :  https://to-do-list-app-js-1.netlify.app/
 -------------
                                                                            
-                                                                              Thank you!
+                                                                  Thank You! 
+                                                                
